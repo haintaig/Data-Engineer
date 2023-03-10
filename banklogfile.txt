@@ -1,0 +1,7 @@
+2023-Mar-10-11:51:28,ETL Job Started
+2023-Mar-10-11:51:28,Extract phase Started
+2023-Mar-10-11:51:28,Extract phase Ended
+2023-Mar-10-11:51:28,Transform phase Started
+2023-Mar-10-11:51:28,Transform phase Ended
+2023-Mar-10-11:51:28,Load Job Started
+2023-Mar-10-11:51:28,Load phase Ended
